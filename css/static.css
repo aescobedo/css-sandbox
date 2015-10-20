@@ -1,0 +1,12 @@
+.box {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.container {
+    background: rgba(0,0,0,5);
+    width: 200px;
+    height: 200px;
+    position:relative;
+}

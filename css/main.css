@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    height: 1000px;
+    color:#bfbfbf;
+}
+
+h1 {
+    font-weight: normal
+}
+
+em {
+    color: #dd740b;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.blue-box {
+    background: #627da0;
+    left: 200px;
+}
+.green-box {
+    background: #5b8054;
+}
